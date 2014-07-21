@@ -1,0 +1,1156 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"substr",
+				"substr"
+			],
+			[
+				"sign",
+				"signup-pane"
+			],
+			[
+				"key",
+				"keyVal"
+			],
+			[
+				"k",
+				"keyVal"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"scrub",
+				"scrubbaDubDub"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"regis",
+				"registerData"
+			],
+			[
+				"regi",
+				"registerData"
+			],
+			[
+				"birth",
+				"birth_year"
+			],
+			[
+				"registe",
+				"registerSaved"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"inser",
+				"insert_id"
+			],
+			[
+				"last",
+				"last_insert_id"
+			],
+			[
+				"check",
+				"checkdate"
+			],
+			[
+				"eror",
+				"error"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"register",
+				"registerData"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"input",
+				"input-length4"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"bill",
+				"bill_zipcode"
+			],
+			[
+				"bil",
+				"bill_zipcode"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"perm",
+				"permKey"
+			],
+			[
+				"acl_rol",
+				"acl_roles"
+			],
+			[
+				"acl_",
+				"acl_permissions"
+			],
+			[
+				"permi",
+				"permissions"
+			],
+			[
+				"rs",
+				"response"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"role",
+				"roleID"
+			],
+			[
+				"acl_role",
+				"acl_role_permissions"
+			],
+			[
+				"getRole",
+				"getRolePerms"
+			],
+			[
+				"as",
+				"assoc"
+			],
+			[
+				"fetch",
+				"fetch_assoc"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"retu",
+				"returnArr"
+			],
+			[
+				"query",
+				"queryStr"
+			],
+			[
+				"retur",
+				"returnArr"
+			],
+			[
+				"upload",
+				"upload_edit-done"
+			],
+			[
+				"upl",
+				"uploadify-queue-item"
+			],
+			[
+				"up",
+				"uploadify-queue-item"
+			],
+			[
+				"uploa",
+				"upload_edit-cancel"
+			],
+			[
+				"mo",
+				"modal-content"
+			],
+			[
+				"modal",
+				"modal-overlay"
+			],
+			[
+				"uplo",
+				"uploadify"
+			],
+			[
+				"file",
+				"file_upload"
+			],
+			[
+				"modal-con",
+				"modal-content"
+			],
+			[
+				"upload_edi",
+				"upload_edit-cancel"
+			],
+			[
+				"profil",
+				"profile-pic-edit-menu"
+			],
+			[
+				"profi",
+				"profile-pic-edit-submenu"
+			],
+			[
+				"pho",
+				"photoUp-container"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"phot",
+				"photoUp-container"
+			],
+			[
+				"Phot",
+				"PhotoUp-container"
+			],
+			[
+				"photo",
+				"photoUp"
+			],
+			[
+				"upMenu",
+				"upMenuEntry"
+			],
+			[
+				"set",
+				"setOptions"
+			],
+			[
+				"new",
+				"newOptions"
+			],
+			[
+				"prof",
+				"profile-pic"
+			],
+			[
+				"pic",
+				"picEditButton"
+			],
+			[
+				"formd",
+				"formdata"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"ul",
+				"uploadPath"
+			],
+			[
+				"pas",
+				"passExt"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"thr",
+				"thread"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"strpo",
+				"strrpos"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"edi",
+				"editItem"
+			],
+			[
+				"tabs",
+				"tabs-content"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"sub",
+				"subnav-item"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"na",
+				"nav-item"
+			],
+			[
+				"init",
+				"initValues"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"acc",
+				"accObj"
+			],
+			[
+				"chec",
+				"checkVal"
+			],
+			[
+				"che",
+				"checkVal"
+			],
+			[
+				"rule",
+				"rules"
+			],
+			[
+				"met",
+				"metadata"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"send",
+				"sendData"
+			],
+			[
+				"sen",
+				"sendData"
+			],
+			[
+				"get",
+				"getCount"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"num",
+				"elementNum"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"e",
+				"extend"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"va",
+				"validImg"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"in",
+				"inCheck"
+			],
+			[
+				"displ",
+				"display	display: inline"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"get_Em",
+				"getID_Email"
+			],
+			[
+				"acces",
+				"accessControl"
+			],
+			[
+				"SE",
+				"_SESSION"
+			],
+			[
+				"back",
+				"background	background-color: name"
+			],
+			[
+				"backg",
+				"background	background-color: name"
+			],
+			[
+				"not",
+				"note-box"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin	margin: all"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"q",
+				"queryStr"
+			],
+			[
+				"contro",
+				"controlObj"
+			],
+			[
+				"backgroun",
+				"background	background-color: name"
+			],
+			[
+				"backgrou",
+				"background	background-color: hex"
+			],
+			[
+				"ob_flush",
+				"ob_end_flush"
+			],
+			[
+				"_SE",
+				"_SESSION"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"session_reg",
+				"session_regenerate_id"
+			],
+			[
+				"category",
+				"category_model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Library/Controller/home_control.php",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Page/home/landing.php",
+			"settings":
+			{
+				"buffer_size": 4512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Library/Controller/user_control.php",
+			"settings":
+			{
+				"buffer_size": 10469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Library/Account/Photo.php",
+			"settings":
+			{
+				"buffer_size": 4946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Page/home/debug.php",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 396.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Account/Account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Include/Mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Account/Message.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Account/Photo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Account/Mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Include/Search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Page/home/landing-style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Page/templates/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/suggest/jquery.suggest.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Controller/user_control.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/hoverIntent/jquery.hoverIntentR6.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/nivo-slider/themes/default/default.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/nivo-slider/nivo-slider.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/nivo-slider/themes/images/dev7logo.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Library/Include/System.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Plugin/nivo-slider/demo/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pages/user/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pages/templates/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pages/home/landing.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pages/user/register.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Pages/home/debug.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Account/Account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Account/Mail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/phpmailer/phpmailer.inc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Mail.php",
+		"/Users/crash/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/crash/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Messages.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/configs/db_config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Account/ACL.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Account/Setting.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/System.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/controller/user_control.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/user/register.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/controller/home_control.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/home/landing.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/user/backup",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/styles/basis.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/styles/base.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/styles/layout.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/templates/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/user/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/AccountStuff/ACL.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Photo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/user/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Privilege.php",
+		"/Users/crash/Dropbox/DKLA Intern/dkla backup 3-6-12/libs/customers.php",
+		"/Users/crash/Dropbox/DKLA Intern/dkla backup 3-6-12/libs/customer_projects.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/AccountStuff/Account.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/flash/uploadify.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/uploadify.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/templates/uploadify.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/uploadify.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/templates/uploadify.pho",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/jquery.uploadify-3.1.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/styles/uploadify.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/styles/skeleton.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/css/uploadify.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/scripts/jquery.photoUp.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/jquery.checkit.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/scripts/jquery.imgareaselect.pack.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/jquery.photoUp.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/upload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/Photo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/functions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/jquery.sampleplugin.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/jquery.imgareaselect.pack.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/test/jquery.imgareaselect.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/user/settings.php",
+		"/Applications/XAMPP/htdocs/libs/System.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/templates/navigation.php",
+		"/Users/crash/Dropbox/Roomies/eduIP.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/images/klogo.png",
+		"/Users/crash/Dropbox/DKLA Intern/dkla backup 3-6-12/admin/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/templates/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/scripts/functions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/scripts/tabs.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/javascripts/tabs.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/scripts/jquery.checkit.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/scripts/inCheck.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/scripts/jquery.metadata.js",
+		"/Users/crash/Downloads/jquery-validation-1.9.0/jquery.validate.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/robots.txt",
+		"/Users/crash/Desktop/view-source www.getskeleton.com.html",
+		"/Applications/XAMPP/xamppfiles/logs/rewrite_log",
+		"/Users/crash/Downloads/tomorrow.rtf",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/home/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/error/404.html",
+		"/Users/crash/Downloads/dhgamache-Skeleton-6d07a65/404.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/views/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/ACL.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pages/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/test.php",
+		"/Applications/XAMPP/htdocs/libs/Database.php",
+		"/Applications/XAMPP/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/libs/Privileges.php",
+		"/Applications/XAMPP/htdocs/configs/db_config.php",
+		"/Applications/XAMPP/htdocs/configs/.htaccess",
+		"/Users/crash/Sites/krv2/.htaccess",
+		"/Users/crash/Sites/krv2/configs/.htaccess",
+		"/Users/crash/Dropbox/Roomies/table.cpp",
+		"/Users/crash/Desktop/table.cpp",
+		"/Users/crash/Desktop/table.hpp",
+		"/Users/crash/Desktop/main0.cpp",
+		"/Users/crash/Sites/krv2/libs/Database.php",
+		"/Users/crash/Sites/krv2/libs/untitled",
+		"/Users/crash/Sites/krv2/libs/Account.php",
+		"/Users/crash/Sites/krv2/index.php",
+		"/Users/crash/Sites/krv2/javascript/tabs.js",
+		"/Users/crash/Sites/krv2/error/404.html",
+		"/Users/crash/Sites/krv2/configs/db_config.php",
+		"/Users/crash/S Projects/krv2",
+		"/Users/crash/Sites/koaads/libs/control/user_control.php",
+		"/Users/crash/Sites/koaads/libs/model/location_model.php",
+		"/Users/crash/Sites/koaads/libs/control/home_control.php",
+		"/Users/crash/Sites/koaads/libs/control/post_control.php",
+		"/Users/crash/Sites/koaads/libs/model/post_model.php",
+		"/Users/crash/Sites/koaads/libs/model/category_model.php",
+		"/Users/crash/Sites/koaads/libs/model/photo_model.php",
+		"/Users/crash/Desktop/CH3NotesBondanella.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/htdocs/libs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"000",
+			"private",
+			"var",
+			"error_handler",
+			"Setting",
+			"userID",
+			"insert_id",
+			"mysql",
+			"xdebug",
+			"register",
+			"margin-bottom: 20px",
+			"margin-bottom:20px",
+			"item",
+			"^\\$([a-z]+)",
+			"^\\$(:alpha)",
+			"null",
+			"	  ",
+			"private ",
+			"private",
+			"access",
+			"$querystr",
+			"getAllRoles",
+			"getRoles",
+			"uploadify-queue-ite",
+			"/user/login",
+			"\\\"/user/login\\\"",
+			"			",
+			"([0-9]$)",
+			"(,$)",
+			"([0-9]$)",
+			":",
+			":\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}-\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}",
+			":2.119.234.168-2.119.234.175",
+			":4.17.69.128-4.17.69.159",
+			":\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}-\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}",
+			"/^:/",
+			":2.119.234.168-2.119.234.175",
+			"63",
+			"tabs",
+			");",
+			"\"];",
+			"				",
+			": \"\",",
+			"></",
+			"(){",
+			"h6",
+			">",
+			"RewriteRule",
+			"]+,?/\", \"",
+			"                        $",
+			"\n                $this->user->logout();",
+			">",
+			"		",
+			"	    ",
+			".htaccess",
+			"_SESSION",
+			"		",
+			"Neorealism__________________"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1,109, ",
+			"$1109",
+			"$1,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Library/Controller/home_control.php",
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Page/home/landing.php",
+					"settings":
+					{
+						"buffer_size": 4512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Library/Controller/user_control.php",
+					"settings":
+					{
+						"buffer_size": 10469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5047,
+								5047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 29.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Library/Account/Photo.php",
+					"settings":
+					{
+						"buffer_size": 4946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1416,
+								1416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 508.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Page/home/debug.php",
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"acc",
+				"libs/Account/Account.php"
+			],
+			[
+				"set",
+				"libs/Account/Setting.php"
+			],
+			[
+				"s",
+				"libs/System.php"
+			],
+			[
+				"acl",
+				"libs/Account/ACL.php"
+			],
+			[
+				"use",
+				"libs/controller/user_control.php"
+			],
+			[
+				"re",
+				"pages/views/user/register.php"
+			],
+			[
+				"base",
+				"pages/styles/base.css"
+			],
+			[
+				"upload",
+				"test/uploadify.php"
+			],
+			[
+				"uplo",
+				"javascripts/jquery.uploadify-3.1.js"
+			],
+			[
+				"hea",
+				"pages/templates/header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"css",
+				"pages/styles/skeleton.css"
+			],
+			[
+				"up",
+				"pages/styles/uploadify.css"
+			],
+			[
+				"user",
+				"libs/controller/user_control.php"
+			],
+			[
+				"header",
+				"pages/templates/header.php"
+			],
+			[
+				"prof",
+				"pages/views/user/profile.php"
+			],
+			[
+				"pho",
+				"test/scripts/jquery.photoUp.js"
+			],
+			[
+				"chec",
+				"javascripts/jquery.checkit.js"
+			],
+			[
+				"jque",
+				"javascripts/jquery.checkit.js"
+			],
+			[
+				"head",
+				"pages/templates/header.php"
+			],
+			[
+				"a",
+				"libs/Account.php"
+			],
+			[
+				"pro",
+				"pages/views/user/profile.php"
+			],
+			[
+				"pr",
+				"pages/views/user/profile.php"
+			],
+			[
+				"reg",
+				"pages/views/user/register.php"
+			],
+			[
+				"stles",
+				"pages/styles/skeleton.css"
+			],
+			[
+				"regi",
+				"pages/views/user/register.php"
+			],
+			[
+				"ac",
+				"libs/Account.php"
+			],
+			[
+				"hom",
+				"libs/controller/home_control.php"
+			],
+			[
+				"class.db",
+				"libs/class.db.php"
+			],
+			[
+				"model",
+				"libs/model/location_model.php"
+			],
+			[
+				"categ",
+				"libs/model/category_model.php"
+			],
+			[
+				"photo",
+				"libs/model/photo_model.php"
+			],
+			[
+				"newpo",
+				"libs/view/post_view/newpost.php"
+			],
+			[
+				"post",
+				"libs/control/post_control.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}

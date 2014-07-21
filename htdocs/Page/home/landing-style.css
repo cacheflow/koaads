@@ -1,0 +1,45 @@
+.container{width: 100%; height: 100%;}
+.nav-pane {background:#6688bc; overflow:hidden; width:100%;}
+	.small-logo {
+		background: url('../../Theme/images/klogo-150x20.png'); 
+		height:20px ; 
+		text-indent:-9999px; 
+		width:150px;
+	}
+	.input-pane {float: right;}
+	.submit-pane {float: right;}
+.contain-pane {position: relative; overflow: auto;}
+	.search-pane {background:#FFF; float:left; height:500px; width:50%;}
+	.signup-pane {
+		position: absolute;
+		left: -50%;
+		top: 0;
+		background:#FFF; 
+		float:left; 
+		height:500px; 
+		width:50%;
+		border-right: 1px solid #e8e8e8;
+		border-bottom: 1px solid #e8e8e8;
+	}
+	.slider-pane {
+		background: #FFF;
+		float: left;
+		height: 500px;	
+		width: 50%;
+		-webkit-box-shadow: -1px 0px 5px 0px #4a4a4a;
+	    -moz-box-shadow: -1px 0px 5px 0px #4a4a4a;
+	    box-shadow: -1px 0px 5px 0px #4a4a4a;
+	}
+.footer-nav {background:#6688bc; width: 100%; height: 50px;}
+.length2{width: 15px;}
+.length4{width: 30px;}
+
+/*
+ * Need to set min widths
+ ****************************/
+
+ /* background: #f4f2f3;
+  * nav: #9098a7;
+  * buttons: #3366cc;
+  * borders: #ebebeb;
+  **/
